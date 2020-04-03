@@ -11,3 +11,6 @@ PRject.ipynb  is the project
 
 dataset contains all the traning sample (after augmantation and resize)
 
+
+To test 
+put test video (.avi) in the same folder as PRject.ipynb
