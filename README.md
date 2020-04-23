@@ -11,6 +11,9 @@ dataset contains all the traning sample (after augmantation and resize)(haven't 
 
 
 To test 
+
 put test video (.avi) in the same folder as PRject.ipynb
+
 after load the model
+
 there is a section can test the video.
