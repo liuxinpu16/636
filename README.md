@@ -72,9 +72,12 @@ python setup.py install
 
 To test on video and webcam:
 
-run the following commands in 'tensorflow1' enviroment:
+put the test video at:  C:\tensorflow1\models\research\object_detection\
+
+run the following commands in anaconda prompt with 'tensorflow1' enviroment:
 
 cd C:\tensorflow1\models\research\object_detection\
+
 jupyter notebook test.ipynb
 
 
