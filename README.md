@@ -15,10 +15,15 @@ Set up:
 7,Dowload Rar file:"636_object_detection" 
   
 8,Unzip the downloaded file into object_detection folder.
+
   Make sure every file go to it's place.
+  
   The model file go to C:\tensorflow1\models\research\object_detection\inference_graph
+  
   labelmap.pbttxt go to C:\tensorflow1\models\research\object_detection\training
+  
   visualization_utils.py go to C:\tensorflow1\models\research\object_detection\utils
+  
   test.ipynb stay in C:\tensorflow1\models\research\object_detection\
 
 9,Set up the enviroment:
