@@ -1,5 +1,7 @@
 # 636
-Set up:
+
+   Set up:
+
 1,Creat a folder in C: named 'tensorflow1'
 
 2,Download:https://github.com/tensorflow/models
@@ -26,9 +28,9 @@ Set up:
   
   test.ipynb stay in C:\tensorflow1\models\research\object_detection\
 
-9,Set up the enviroment:
+   Set up the enviroment:
 
-10,Open anaconda prompt and run the following commands:
+Open anaconda prompt and run the following commands:
 
 conda create -n tensorflow1 pip python=3.6
 
@@ -70,7 +72,7 @@ python setup.py install
 
 
 
-To test on video and webcam:
+   To test on video and webcam:
 
 put the test video at:  C:\tensorflow1\models\research\object_detection\
 
