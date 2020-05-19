@@ -14,7 +14,7 @@
 
 6,Go to my google drive:https://drive.google.com/drive/folders/1zBY1Ho4upCBiLz40McRmMAeOu9mE56oa?usp=sharing
 
-7,Dowload Rar file:"636_object_detection" 
+7,Dowload all 3 file 
   
 8,Unzip the downloaded file into object_detection folder.
 
